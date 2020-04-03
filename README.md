@@ -1,2 +1,2 @@
 # Cartorio
- Cadastro e controle de objetos depositados em cartorio
+ Cadastro e controle de objetos depositados ou retirados em cartorio
